@@ -1,5 +1,5 @@
 # Powershell functions
-Different powershell functions for different purposes
+Different powershell functions and scripts for different purposes
 
 These are provided as is.
 
